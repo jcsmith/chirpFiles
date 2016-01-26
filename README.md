@@ -8,7 +8,7 @@ Curated collection of files useful for programming an amateur radio with chirp.
 ### US-NOAA.csv
 - NOAA Weather Radio station frequencies through out the U.S.
 
-### US-CALL.csv
+### US-2M-70CM-FM-CALL.csv
 - US National Simplex Calling Frequencies.
 
 ### US-WV-RPT-HAMTALK.csv
